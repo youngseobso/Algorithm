@@ -31,8 +31,6 @@ for i in card2:
 #     else:
 #         print(0, end = ' ')
 
-
-
 # //시간 초과
 # import sys
 # input = sys.stdin.readline
